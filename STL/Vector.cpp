@@ -56,4 +56,13 @@ cout << endl;
 // Checking size of vector v
   cout << v.size() << endl;    
 
+
+
+
+
+// Checking capacity of vector v
+  cout << v.capacity() << endl;
+
+
+
 }
